@@ -7,7 +7,7 @@ Una proyecto para monitorear, gestionar y controlar las incidencias en un entorn
 -Listado de incidencias
 
 ## PROTOTIPO
-![Descripción de la imagen](prototipo/459954020_510315034969048_5817211675833525405_n.jpg)
+![Descripción de la imagen](assets/prototipo/459954020_510315034969048_5817211675833525405_n.jpg)
 
 ## Instalación
 
